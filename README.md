@@ -7,12 +7,12 @@ I enjoy combining technical skills with project management and teamwork gained t
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👩‍💻 Programming Languages
+### Programming Languages
 Python · Java · C · C++ · PHP · SQL · JavaScript · HTML · CSS
 
-### 📊 Data Science & AI
+### Data Science & AI
 - Pandas, NumPy  
 - PyTorch, TensorFlow  
 - Transformers, spaCy, NLTK  
@@ -20,14 +20,14 @@ Python · Java · C · C++ · PHP · SQL · JavaScript · HTML · CSS
 - Sentiment Analysis  
 - Web Scraping (Selenium, BeautifulSoup)
 
-### 🌐 Web Development
+### Web Development
 **Frontend:** React, HTML, CSS, JavaScript  
 **Backend:** PHP, Python, RESTful APIs
 
-### 🗄️ Databases
+### Databases
 MySQL · Excel
 
-### 🎨 Tools & Productivity
+### Tools & Productivity
 - Google Colab, Kaggle  
 - LaTeX, Microsoft Office, Google Workspace  
 - UI/UX: Figma  
@@ -35,7 +35,7 @@ MySQL · Excel
 
 ---
 
-## 🌍 Languages
+## Languages
 - Arabic: Native  
 - French: Fluent  
 - English: Professional
