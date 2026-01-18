@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Kawther Arbid
 
-<!--
-**Kawtherabd/Kawtherabd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **IT Engineer** | 📊 **Data Science Enthusiast** | 👩‍🏫 **Part-time Computer Science University Instructor**
 
-Here are some ideas to get you started:
+I am passionate about **data science**, **natural language processing (NLP)**, and **software development**.  
+I enjoy combining technical skills with **project management** and **teamwork** gained through academic, professional, and associative experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming Languages
+Python · Java · PHP · SQL · JavaScript · HTML · CSS
+
+### 📊 Data Science & AI
+- Pandas, NumPy  
+- PyTorch, TensorFlow  
+- Transformers, spaCy, NLTK  
+- Data Cleaning & Manipulation  
+- Sentiment Analysis  
+- Web Scraping (Selenium, BeautifulSoup)
+
+### 🌐 Web Development
+**Frontend:** React, HTML, CSS, JavaScript  
+**Backend:** PHP, Python, RESTful APIs
+
+### 🗄️ Databases
+MySQL · Excel
+
+### 🎨 Tools & Productivity
+- Google Colab, Kaggle  
+- LaTeX, Microsoft Office, Google Workspace  
+- UI/UX: Figma  
+- Project Management: ClickUp, Notion  
+
+---
+
+## 🌍 Languages
+- Arabic: Native  
+- French: Fluent  
+- English: Professional
+
