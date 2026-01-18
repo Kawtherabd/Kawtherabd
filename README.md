@@ -10,7 +10,7 @@ I enjoy combining technical skills with project management and teamwork gained t
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
-Python · Java · PHP · SQL · JavaScript · HTML · CSS
+Python · Java · C · C++ · PHP · SQL · JavaScript · HTML · CSS
 
 ### 📊 Data Science & AI
 - Pandas, NumPy  
