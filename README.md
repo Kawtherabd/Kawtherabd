@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kawther Arbid
 
-🎓 **IT Engineer** | 📊 **Data Science Enthusiast** | 👩‍🏫 **Part-time Computer Science University Instructor**
+🎓 **IT & Data Science Engineer**| 👩‍🏫 **Part-time Computer Science University Instructor**
 
 I am passionate about data science, natural language processing (NLP), and software development.  
 I enjoy combining technical skills with project management and teamwork gained through academic, professional, and associative experiences.
